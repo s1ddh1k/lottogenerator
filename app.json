@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "로또번호 생성기",
+    "slug": "lottogenerator",
+    "privacy": "public",
+    "sdkVersion": "32.0.0",
+    "platforms": [
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.siddhik.lottogenerator"
+    }
+  }
+}
